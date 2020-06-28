@@ -1,5 +1,4 @@
-# qwiklab
-To practice qwiklabs examples using git command line.
+#Google IT Automation with python
+##Automating real world task with python
 
-I am editing the README file. Adding some more details about the project description.
-
+A automation script to automate a website for fruits and mail server to send notification automatically in case of some suspicious action.
